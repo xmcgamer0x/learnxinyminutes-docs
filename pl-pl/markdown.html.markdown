@@ -46,13 +46,13 @@ daną liczbę krzyżyków (#) przed linijką.
 ##### To jest <h5>
 ###### To jest <h6>
 ```
-Markdown also provides us with two alternative ways of indicating h1 and h2.
+Istnieje także alternatywny sposób zapisu elementów h1 i h2.
 
 ```md
-This is an h1
+To jest h1
 =============
 
-This is an h2
+To jest h2
 -------------
 ```
 
