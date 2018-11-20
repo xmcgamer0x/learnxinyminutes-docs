@@ -7,20 +7,18 @@ filename: markdown.md
 ---
 
 
-Markdown was created by John Gruber in 2004. It's meant to be an easy to read 
-and write syntax which converts easily to HTML (and now many other formats as 
-well).
+Markdown został stworzony przez Johna Grubera w 2004 roku. Cel to składnia prosta do zrozumienia i zapisania,
+oraz łatwa do przekonwertowania na kod HTML (oraz wiele innych formatów).
 
-Markdown also varies in implementation from one parser to a next. This
-guide will attempt to clarify when features are universal or when they are
-specific to a certain parser.
+Markdown różni się implementacją od jednego parsera do drugiego.
+Ten przewodnik obejmuje funkcje uniwersalne oraz takie, które są dostępne tylko w wybranych parserach.
 
-- [HTML Elements](#html-elements)
-- [Headings](#headings)
-- [Simple Text Styles](#simple-text-styles)
-- [Paragraphs](#paragraphs)
-- [Lists](#lists)
-- [Code blocks](#code-blocks)
+- [Elementy HTML](#html-elements)
+- [Nagłówki](#headings)
+- [Proste style tekstu](#simple-text-styles)
+- [Akapity](#paragraphs)
+- [Listy](#lists)
+- [Bloki kodu](#code-blocks)
 - [Horizontal rule](#horizontal-rule)
 - [Links](#links)
 - [Images](#images)
