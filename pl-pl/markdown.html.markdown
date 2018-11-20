@@ -13,8 +13,8 @@ oraz łatwa do przekonwertowania na kod HTML (oraz wiele innych formatów).
 Markdown różni się implementacją od jednego parsera do drugiego.
 Ten przewodnik obejmuje funkcje uniwersalne oraz takie, które są dostępne tylko w wybranych parserach.
 
-- [Elementy HTML](#html-elements)
-- [Nagłówki](#headings)
+- [Elementy HTML](#elementy-html)
+- [Nagłówki](#nagłówki)
 - [Proste style tekstu](#simple-text-styles)
 - [Akapity](#paragraphs)
 - [Listy](#lists)
