@@ -19,33 +19,32 @@ Ten przewodnik obejmuje funkcje uniwersalne oraz takie, które są dostępne tyl
 - [Akapity](#paragraphs)
 - [Listy](#lists)
 - [Bloki kodu](#code-blocks)
-- [Horizontal rule](#horizontal-rule)
-- [Links](#links)
-- [Images](#images)
-- [Miscellany](#miscellany)
+- [Linie poziome](#horizontal-rule)
+- [Odnośniki](#links)
+- [Obrazy](#images)
+- [Różne](#miscellany)
 
-## HTML Elements
-Markdown is a superset of HTML, so any HTML file is valid Markdown.
+## Elementy HTML
+Markdown jest nadzbiorem języka HTML, więc każdy kod HTML jest poprawnym kodem Markdown.
 
 ```md
-<!--This means we can use HTML elements in Markdown, such as the comment 
-element, and they won't be affected by a markdown parser. However, if you 
-create an HTML element in your markdown file, you cannot use markdown syntax 
-within that element's contents.-->
+<!--To oznacza, że możemy używać elementów HTML w Markdown-ie, takich jak n.p. ten komentarz,
+i parser Markdown-a bez problemu wczyta kod. 
+Jednak nie można używać składni Markdown-a w zawartości takiego elementu HTML.-->
 ```
 
-## Headings
+## Nagłówki
 
-You can create HTML elements `<h1>` through `<h6>` easily by prepending the
-text you want to be in that element by a number of hashes (#).
+Elementy HTML od `<h1>` do `<h6>` możemy uzyskać wstawiając
+daną liczbę krzyżyków (#) przed linijką.
 
 ```md
-# This is an <h1>
-## This is an <h2>
-### This is an <h3>
-#### This is an <h4>
-##### This is an <h5>
-###### This is an <h6>
+# To jest <h1>
+## To jest <h2>
+### To jest <h3>
+#### To jest <h4>
+##### To jest <h5>
+###### To jest <h6>
 ```
 Markdown also provides us with two alternative ways of indicating h1 and h2.
 
